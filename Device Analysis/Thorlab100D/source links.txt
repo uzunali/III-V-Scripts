@@ -1,0 +1,9 @@
+https://pypi.org/project/ThorlabsPM100/
+https://github.com/pyvisa/pyvisa/issues/595
+https://pretagteam.com/question/get-control-over-thorlabs-pm100usb-from-python
+
+
+install
+https://pypi.org/project/ThorlabsPM100/#files
+
+https://github.com/clade/ThorlabsPM100/blob/master/example.py
